@@ -6,5 +6,5 @@
     <string name="background">A photo of the Coliseum in Rome (from VisualHunt.com)</string>
     <string name="endOfRound"> </string>
     <string name="winner">Game Over! Ave, %1$s! You won!</string>
-    <string name="description">A game much like Quiz Bowl, but for the Latin language and classical culture. Literally: To the death.</string>
+    <string name="description">A game much like Quiz Bowl, but for the Latin language and classical culture.</string>
 </resources>
